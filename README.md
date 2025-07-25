@@ -11,4 +11,4 @@ What I do have, however, is smaller projects (tools, libraries, etc.) I have bee
 Here are a list to the projects I currently host/maintain on github:
 
 - [__bUnitTests__](https://github.com/sherwoodben/bUnitTests) - a single file "header" unit testing framework for C++ applications
-- [__bJSON__] (https://github.com/sherwoodben/bJSON) - a JSON serializing single-file header utility for C++ with planned parsing support
+- [__bJSON__](https://github.com/sherwoodben/bJSON) - a JSON serializing single-file header utility for C++ with planned parsing support
